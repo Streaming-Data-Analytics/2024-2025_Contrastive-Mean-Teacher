@@ -13,7 +13,7 @@ This project involves studying the paper in depth and reproducing the official c
 
 ## Goals and objectives
 - Study the methodology proposed in the "Contrastive Mean Teacher" paper.
--Reproduce the experiments using the official code.
+- Reproduce the experiments using the official code.
 - Understand the training pipeline, loss components, and architecture details.
 - Analyze the reported results and compare them with the reproduced outcomes.
 - Present the models used, training configurations, and domain pairs.
